@@ -30,8 +30,8 @@ Save and Run the Program.
 
 ## Program:
 ```
-Developed By : Gokul R
-Register No : 212222230039
+Developed By : Ramprabhu R
+Register No : 212222040129
 
 #include "common.h"
 #include <cuda_runtime.h>
